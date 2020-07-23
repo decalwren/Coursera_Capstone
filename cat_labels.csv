@@ -1,0 +1,337 @@
+new,original,name2,count
+Coffee Shop/Café,Coffee Shop,Food,410
+Pub,Pub,Nightlife Spot,323
+Coffee Shop/Café,Café,Food,258
+Accomodation,Hotel,Travel & Transport,235
+Italian Restaurant,Italian Restaurant,Food,171
+Grocery Store,Grocery Store,Shop & Service,144
+Gym,Gym / Fitness Center,Outdoors & Recreation,135
+Food,Sandwich Place,Food,135
+Food,Bakery,Food,127
+Italian Restaurant,Pizza Place,Food,116
+Restaurant,Burger Joint,Food,109
+Indian Restaurant,Indian Restaurant,Food,100
+Bar,Bar,Nightlife Spot,93
+Restaurant,Restaurant,Food,85
+Bar,Cocktail Bar,Nightlife Spot,83
+Outdoors & Recreation,Park,Outdoors & Recreation,76
+Shop & Service,Clothing Store,Shop & Service,70
+Restaurant,French Restaurant,Food,66
+Food,Fast Food Restaurant,Food,61
+Asian Restaurant,Thai Restaurant,Food,59
+Asian Restaurant,Chinese Restaurant,Food,58
+Asian Restaurant,Japanese Restaurant,Food,57
+Asian Restaurant,Sushi Restaurant,Food,56
+Shop & Service,Pharmacy,Shop & Service,54
+Arts,Theater,Arts & Entertainment,52
+Travel & Transport,Train Station,Travel & Transport,50
+Outdoors & Recreation,Plaza,Outdoors & Recreation,49
+Restaurant,Turkish Restaurant,Food,47
+Restaurant,Breakfast Spot,Food,45
+Travel & Transport,Bus Stop,Travel & Transport,40
+Food,Deli / Bodega,Food,40
+Outdoors & Recreation,Garden,Outdoors & Recreation,40
+Grocery Store,Supermarket,Shop & Service,40
+Restaurant,Middle Eastern Restaurant,Food,39
+Asian Restaurant,Vietnamese Restaurant,Food,39
+Restaurant,English Restaurant,Food,38
+Bar,Wine Bar,Nightlife Spot,37
+Food,Ice Cream Shop,Food,36
+Shop & Service,Bookstore,Shop & Service,35
+Bar,Beer Bar,Nightlife Spot,34
+Asian Restaurant,Asian Restaurant,Food,33
+Travel & Transport,Platform,Travel & Transport,33
+Arts,Art Gallery,Arts & Entertainment,32
+Restaurant,Gastropub,Food,31
+Food,Juice Bar,Food,31
+Bar,Hotel Bar,Nightlife Spot,30
+Restaurant,Portuguese Restaurant,Food,28
+Restaurant,Steakhouse,Food,28
+Shop & Service,Convenience Store,Shop & Service,27
+Gym,Gym,Outdoors & Recreation,27
+Restaurant,Greek Restaurant,Food,26
+Shop & Service,Boutique,Shop & Service,25
+Travel & Transport,Metro Station,Travel & Transport,25
+Restaurant,Mexican Restaurant,Food,24
+Restaurant,Modern European Restaurant,Food,23
+Restaurant,Tapas Restaurant,Food,23
+Shop & Service,Cosmetics Shop,Shop & Service,22
+Food,Dessert Shop,Food,22
+Shop & Service,Market,Shop & Service,22
+Restaurant,Seafood Restaurant,Food,22
+Bar,Brewery,Nightlife Spot,21
+Shop & Service,Chocolate Shop,Shop & Service,21
+Bar,Lounge,Nightlife Spot,21
+Restaurant,Mediterranean Restaurant,Food,21
+Arts,Museum,Arts & Entertainment,21
+Food,Food Truck,Food,20
+Bar,Nightclub,Nightlife Spot,20
+Gym,Yoga Studio,Outdoors & Recreation,20
+Shop & Service,Gift Shop,Shop & Service,19
+Shop & Service,Furniture / Home Store,Shop & Service,18
+Shop & Service,Women's Store,Shop & Service,18
+Food,Fish & Chips Shop,Food,17
+Food,Food & Drink Shop,Shop & Service,17
+Shop & Service,Shopping Mall,Shop & Service,17
+Restaurant,Spanish Restaurant,Food,17
+Food,Burrito Place,Food,16
+Food,Donut Shop,Food,16
+Food,Fried Chicken Joint,Food,16
+Arts,History Museum,Arts & Entertainment,16
+Accomodation,Hostel,Travel & Transport,16
+Asian Restaurant,Korean Restaurant,Food,16
+Entertainment,Movie Theater,Arts & Entertainment,16
+Restaurant,Vegetarian / Vegan Restaurant,Food,16
+Restaurant,Falafel Restaurant,Food,15
+Arts,Music Venue,Arts & Entertainment,15
+Asian Restaurant,Ramen Restaurant,Food,15
+Food,Tea Room,Food,15
+Restaurant,Bistro,Food,14
+Arts,Outdoor Sculpture,Arts & Entertainment,14
+Shop & Service,Spa,Shop & Service,14
+Shop & Service,Arts & Crafts Store,Shop & Service,13
+Restaurant,Caribbean Restaurant,Food,13
+Food,Cupcake Shop,Food,13
+Shop & Service,Department Store,Shop & Service,13
+Shop & Service,Gourmet Shop,Shop & Service,13
+Shop & Service,Jewelry Store,Shop & Service,13
+Restaurant,Lebanese Restaurant,Food,13
+Restaurant,Stationery Store,Shop & Service,13
+Shop & Service,Wine Shop,Shop & Service,13
+Professional & Other Places,Event Space,Professional & Other Places,12
+Shop & Service,Farmers Market,Shop & Service,12
+Restaurant,Malay Restaurant,Food,12
+Restaurant,American Restaurant,Food,11
+Bar,Gay Bar,Nightlife Spot,11
+Arts,Historic Site,Arts & Entertainment,11
+Food,Salad Place,Food,11
+Shop & Service,Sporting Goods Shop,Shop & Service,11
+Food,Bagel Shop,Food,10
+Bar,Speakeasy,Nightlife Spot,10
+Restaurant,Argentinian Restaurant,Food,9
+Restaurant,BBQ Joint,Food,9
+Arts,Indie Movie Theater,Arts & Entertainment,9
+Entertainment,Jazz Club,Arts & Entertainment,9
+Restaurant,Persian Restaurant,Food,9
+Shop & Service,Record Shop,Shop & Service,9
+Outdoors & Recreation,Roof Deck,Outdoors & Recreation,9
+Shop & Service,Shoe Store,Shop & Service,9
+Shop & Service,Street Food Gathering,Shop & Service,9
+Restaurant,African Restaurant,Food,8
+Restaurant,Cantonese Restaurant,Food,8
+Food,Creperie,Food,8
+Restaurant,Dim Sum Restaurant,Food,8
+Shop & Service,Electronics Store,Shop & Service,8
+Food,Food Court,Food,8
+Food,Frozen Yogurt Shop,Food,8
+Arts,Performing Arts Venue,Arts & Entertainment,8
+Food,Bubble Tea Shop,Food,7
+Gym,Cycle Studio,Outdoors & Recreation,7
+Restaurant,Diner,Food,7
+Entertainment,General Entertainment,Arts & Entertainment,7
+Restaurant,Latin American Restaurant,Food,7
+Restaurant,New American Restaurant,Food,7
+Shop & Service,Organic Grocery,Shop & Service,7
+Outdoors & Recreation,Pedestrian Plaza,Outdoors & Recreation,7
+Outdoors & Recreation,Scenic Lookout,Outdoors & Recreation,7
+Travel & Transport,Boat or Ferry,Travel & Transport,6
+Shop & Service,Candy Store,Shop & Service,6
+Shop & Service,Cheese Shop,Shop & Service,6
+Arts,Concert Hall,Arts & Entertainment,6
+Shop & Service,Garden Center,Shop & Service,6
+Restaurant,Kebab Restaurant,Food,6
+Restaurant,Moroccan Restaurant,Food,6
+Indian Restaurant,Pakistani Restaurant,Food,6
+Restaurant,Scandinavian Restaurant,Food,6
+Professional & Other Places,Social Club,Professional & Other Places,6
+Restaurant,South American Restaurant,Food,6
+Shop & Service,Toy / Game Store,Shop & Service,6
+Arts,Art Museum,Arts & Entertainment,5
+Travel & Transport,Bike Rental / Bike Share,Travel & Transport,5
+Restaurant,Brazilian Restaurant,Food,5
+Bar,Champagne Bar,Nightlife Spot,5
+Gym,Dance Studio,Arts & Entertainment,5
+Shop & Service,Discount Store,Shop & Service,5
+Arts,Exhibit,Arts & Entertainment,5
+Shop & Service,Flea Market,Shop & Service,5
+Shop & Service,Health Food Store,Shop & Service,5
+Arts,Indie Theater,Arts & Entertainment,5
+Professional & Other Places,Library,Professional & Other Places,5
+Shop & Service,Liquor Store,Shop & Service,5
+Professional & Other Places,Monument / Landmark,Professional & Other Places,5
+Arts,Multiplex,Arts & Entertainment,5
+Shop & Service,Music Store,Shop & Service,5
+Outdoors & Recreation,Playground,Outdoors & Recreation,5
+Shop & Service,Salon / Barbershop,Shop & Service,5
+Bar,Sports Bar,Nightlife Spot,5
+Shop & Service,Thrift / Vintage Store,Shop & Service,5
+Gym,Boxing Gym,Outdoors & Recreation,4
+Outdoors & Recreation,Bridge,Outdoors & Recreation,4
+Travel & Transport,Bus Station,Travel & Transport,4
+Outdoors & Recreation,Castle,Outdoors & Recreation,4
+Restaurant,Cuban Restaurant,Food,4
+Shop & Service,Dry Cleaner,Shop & Service,4
+Asian Restaurant,Dumpling Restaurant,Food,4
+Restaurant,Ethiopian Restaurant,Food,4
+Shop & Service,Flower Shop,Shop & Service,4
+Shop & Service,Fruit & Vegetable Store,Shop & Service,4
+Outdoors & Recreation,Harbor / Marina,Outdoors & Recreation,4
+Shop & Service,Health & Beauty Service,Shop & Service,4
+Bar,Hookah Bar,Nightlife Spot,4
+Travel & Transport,Light Rail Station,Travel & Transport,4
+Shop & Service,Men's Store,Shop & Service,4
+Food,Noodle House,Food,4
+Restaurant,Peruvian Restaurant,Food,4
+Food,Poke Place,Food,4
+Outdoors & Recreation,Skate Park,Outdoors & Recreation,4
+Outdoors & Recreation,Trail,Outdoors & Recreation,4
+Asian Restaurant,Udon Restaurant,Food,4
+Food,Wings Joint,Food,4
+Outdoors & Recreation,Athletics & Sports,Outdoors & Recreation,3
+Accomodation,Bed & Breakfast,Travel & Transport,3
+Shop & Service,Beer Store,Shop & Service,3
+Shop & Service,Bike Shop,Shop & Service,3
+Shop & Service,Business Service,Shop & Service,3
+Shop & Service,Butcher,Shop & Service,3
+Outdoors & Recreation,Canal,Outdoors & Recreation,3
+Professional & Other Places,Church,Professional & Other Places,3
+Arts,Comedy Club,Arts & Entertainment,3
+Shop & Service,Fish Market,Shop & Service,3
+Outdoors & Recreation,Fountain,Outdoors & Recreation,3
+Shop & Service,Gas Station,Shop & Service,3
+Gym,Gym Pool,Outdoors & Recreation,3
+Shop & Service,Massage Studio,Shop & Service,3
+Shop & Service,Miscellaneous Shop,Shop & Service,3
+Shop & Service,Mobile Phone Shop,Shop & Service,3
+Entertainment,Opera House,Arts & Entertainment,3
+Restaurant,Polish Restaurant,Food,3
+Outdoors & Recreation,Pool,Outdoors & Recreation,3
+Shop & Service,Recording Studio,Shop & Service,3
+Residence,Residential Building (Apartment / Condo),Residence,3
+Food,Snack Place,Food,3
+Outdoors & Recreation,Soccer Field,Outdoors & Recreation,3
+Arts,Street Art,Arts & Entertainment,3
+Asian Restaurant,Szechuan Restaurant,Food,3
+Travel & Transport,Tourist Information Center,Travel & Transport,3
+Shop & Service,Video Game Store,Shop & Service,3
+Shop & Service,Warehouse Store,Shop & Service,3
+Bar,Whisky Bar,Nightlife Spot,3
+Shop & Service,Accessories Store,Shop & Service,2
+Professional & Other Places,Animal Shelter,Professional & Other Places,2
+Shop & Service,Antique Shop,Shop & Service,2
+Food,Austrian Restaurant,Food,2
+Shop & Service,Auto Garage,Shop & Service,2
+Pub,Beer Garden,Nightlife Spot,2
+Entertainment,Bowling Alley,Arts & Entertainment,2
+Restaurant,Brasserie,Food,2
+Restaurant,Buffet,Food,2
+Professional & Other Places,Building,Professional & Other Places,2
+Entertainment,Casino,Arts & Entertainment,2
+Gym,Climbing Gym,Outdoors & Recreation,2
+Professional & Other Places,Community Center,Professional & Other Places,2
+Professional & Other Places,Convention Center,Professional & Other Places,2
+Professional & Other Places,Coworking Space,Professional & Other Places,2
+Entertainment,Cricket Ground,Arts & Entertainment,2
+Professional & Other Places,Distillery,Professional & Other Places,2
+Bar,Dive Bar,Nightlife Spot,2
+Restaurant,Eastern European Restaurant,Food,2
+Shop & Service,Film Studio,Shop & Service,2
+Restaurant,German Restaurant,Food,2
+Restaurant,Halal Restaurant,Food,2
+Restaurant,Himalayan Restaurant,Food,2
+Shop & Service,IT Services,Shop & Service,2
+Outdoors & Recreation,Indoor Play Area,Outdoors & Recreation,2
+Restaurant,Iraqi Restaurant,Food,2
+Pub,Irish Pub,Food,2
+Restaurant,Israeli Restaurant,Food,2
+Restaurant,Japanese Curry Restaurant,Food,2
+Shop & Service,Lingerie Store,Shop & Service,2
+Shop & Service,Locksmith,Shop & Service,2
+Arts,Memorial Site,Arts & Entertainment,2
+Entertainment,Mini Golf,Arts & Entertainment,2
+Outdoors & Recreation,Neighborhood,Outdoors & Recreation,2
+Restaurant,North Indian Restaurant,Food,2
+Professional & Other Places,Office,Professional & Other Places,2
+Shop & Service,Optical Shop,Shop & Service,2
+Shop & Service,Perfume Shop,Shop & Service,2
+Shop & Service,Photography Studio,Shop & Service,2
+Food,Pie Shop,Food,2
+Travel & Transport,Pier,Travel & Transport,2
+Outdoors & Recreation,Recreation Center,Outdoors & Recreation,2
+Travel & Transport,Road,Travel & Transport,2
+Entertainment,Rock Club,Arts & Entertainment,2
+Entertainment,Science Museum,Arts & Entertainment,2
+Outdoors & Recreation,Skating Rink,Outdoors & Recreation,2
+Food,Smoothie Shop,Shop & Service,2
+Entertainment,Soccer Stadium,Arts & Entertainment,2
+Food,Soup Place,Food,2
+Shop & Service,Souvenir Shop,Shop & Service,2
+Outdoors & Recreation,Sports Club,Outdoors & Recreation,2
+Restaurant,Sri Lankan Restaurant,Food,2
+Outdoors & Recreation,Stables,Outdoors & Recreation,2
+Food,Taco Place,Food,2
+Outdoors & Recreation,Tennis Court,Outdoors & Recreation,2
+Restaurant,Theme Restaurant,Food,2
+Shop & Service,Used Bookstore,Shop & Service,2
+Shop & Service,ATM,Shop & Service,1
+Shop & Service,Adult Boutique,Shop & Service,1
+Professional & Other Places,Advertising Agency,Professional & Other Places,1
+Food,Arepa Restaurant,Food,1
+Entertainment,Arts & Entertainment,Arts & Entertainment,1
+Restaurant,Australian Restaurant,Food,1
+Outdoors & Recreation,Badminton Court,Outdoors & Recreation,1
+Travel & Transport,Boarding House,Travel & Transport,1
+Shop & Service,Camera Store,Shop & Service,1
+Outdoors & Recreation,Canal Lock,Outdoors & Recreation,1
+Food,Chaat Place,Food,1
+Professional & Other Places,Circus School,Professional & Other Places,1
+Professional & Other Places,Club House,Professional & Other Places,1
+College & University,College Residence Hall,College & University,1
+Restaurant,Colombian Restaurant,Food,1
+Shop & Service,Comic Shop,Shop & Service,1
+College & University,Community College,College & University,1
+Shop & Service,Costume Shop,Shop & Service,1
+Professional & Other Places,Cultural Center,Professional & Other Places,1
+Food,Czech Restaurant,Food,1
+Shop & Service,Design Studio,Shop & Service,1
+Food,Doner Restaurant,Food,1
+Food,Food,Food,1
+Food,Food Stand,Food,1
+Coffee Shop/Café,Gaming Cafe,Shop & Service,1
+Gym,Gymnastics Gym,Outdoors & Recreation,1
+Outdoors & Recreation,Hill,Outdoors & Recreation,1
+Food,Hot Dog Joint,Food,1
+Restaurant,Indian Chinese Restaurant,Food,1
+Restaurant,Indonesian Restaurant,Food,1
+Bar,Karaoke Bar,Nightlife Spot,1a
+Shop & Service,Kids Store,Shop & Service,1
+Shop & Service,Kitchen Supply Store,Shop & Service,1
+Restaurant,Molecular Gastronomy Restaurant,Food,1
+Shop & Service,Motorcycle Shop,Shop & Service,1
+Asian Restaurant,Okonomiyaki Restaurant,Food,1
+Shop & Service,Outdoor Supply Store,Shop & Service,1
+Outdoors & Recreation,Outdoors & Recreation,Outdoors & Recreation,1
+Shop & Service,Paper / Office Supplies Store,Shop & Service,1
+Food,Pastry Shop,Food,1
+Shop & Service,Pet Store,Shop & Service,1
+Gym,Pilates Studio,Outdoors & Recreation,1
+Entertainment,Pool Hall,Arts & Entertainment,1
+Professional & Other Places,Post Office,Professional & Other Places,1
+Travel & Transport,Rental Car Location,Travel & Transport,1
+Outdoors & Recreation,River,Outdoors & Recreation,1
+Outdoors & Recreation,Rugby Pitch,Outdoors & Recreation,1
+Restaurant,Russian Restaurant,Food,1
+Bar,Sake Bar,Nightlife Spot,1
+Shop & Service,Sausage Shop,Shop & Service,1
+Outdoors & Recreation,Sculpture Garden,Outdoors & Recreation,1
+Restaurant,Shaanxi Restaurant,Food,1
+Shop & Service,Shopping Plaza,Shop & Service,1
+Shop & Service,Smoke Shop,Shop & Service,1
+College & University,Student Center,College & University,1
+Shop & Service,Tailor Shop,Shop & Service,1
+Entertainment,Tour Provider,Arts & Entertainment,1
+Travel & Transport,Tunnel,Travel & Transport,1
+Shop & Service,Vape Store,Shop & Service,1
+Restaurant,Veneto Restaurant,Food,1
+Professional & Other Places,Winery,Professional & Other Places,1
+Asian Restaurant,Yakitori Restaurant,Food,1
